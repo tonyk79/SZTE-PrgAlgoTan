@@ -1,4 +1,4 @@
-# Remove digits
+# Message Route
 Syrjälä hálózatán található n darbab számítógép. A feladatunk az, hogy megálapítsuk, hogy Uolevi képes-e üzenetet küldeni Maija felé és amennyiben igen, úgy mi az útvonalon található minimális számítógépek száma.
 
 # Bemenet
