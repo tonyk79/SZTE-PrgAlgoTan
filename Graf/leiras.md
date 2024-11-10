@@ -4,14 +4,13 @@ Syrjälä hálózatán található n darbab számítógép. A feladatunk az, hog
 # Bemenet
 Az első bemeneti sorban található két szám n és m a számítógépek és kapcsolatok száma. A számítógépek 1-től n-ig vannak számozva, ahol Uolevi gépe az 1-es, Maija gépe az n-edik.
 
-Az input ezesn sorát követik a m sor, amely leírja a kapcsolatokat. 
-Ezt követően m sor következik, ahol egész számként megadjuk a két számítógép közötti kapcsolatot.
+Az input ezen sorát követi m sor, amely leírja a kapcsolatokat.Ezt követően m sorban két egész számként megadjuk a számítógépek közötti kapcsolatot.
 
 Minden kapcsolat két különböző számítógép között él, és legfeljebb egy kapcsolat létezhet bármely két számítógép között.
 
 # Kimenet
 Amennyiben lehetséges üzenetet küldeni, először írjuk ki k-t: az érvényes útvonalon szereplő számítógépek minimális számát. 
-Ezután írjuk ki egy ilyen útvonal példáját. Bármely érvényes megoldás megfelelő.  
+Ezután írjuk ki egy ilyen útvonal példáját. Bármely érvényes megoldás kiírható.  
 Amennyiben nem található útvonal, írjuk ki az "IMPOSSIBLE" szót.
 
 # Megkötések
