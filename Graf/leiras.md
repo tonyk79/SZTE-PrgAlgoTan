@@ -1,5 +1,5 @@
 # Message Route
-Syrjälä hálózatán található n darbab számítógép. A feladatunk az, hogy megálapítsuk, hogy Uolevi képes-e üzenetet küldeni Maija felé és amennyiben igen, úgy mi az útvonalon található minimális számítógépek száma.
+Syrjälä hálózatán található n darbab számítógép. A feladatunk az, hogy megállapítsuk, hogy Uolevi képes-e üzenetet küldeni Maija felé és amennyiben igen, úgy mi az útvonalon található minimális számítógépek száma.
 
 # Bemenet
 Az első bemeneti sorban található két szám n és m a számítógépek és kapcsolatok száma. A számítógépek 1-től n-ig vannak számozva, ahol Uolevi gépe az 1-es, Maija gépe az n-edik.
